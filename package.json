@@ -1,0 +1,40 @@
+{
+  "name": "@serianox/webse-api",
+  "version": "0.0.0",
+  "description": "WebSE API for Node.js",
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.ts.d",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Thomas Duboucher <thomas@duboucher.eu> (https://duboucher.eu/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serianox/webse-api-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/serianox/typescript-hello/issues"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.2.0",
+    "@types/node": "^14.14.22",
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1",
+    "chai": "^4.2.0",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "mocha": "^8.2.1",
+    "mochawesome": "^6.2.1",
+    "nyc": "^15.1.0",
+    "prettier": "^2.2.1",
+    "source-map-support": "^0.5.19",
+    "typedoc": "^0.20.19",
+    "typescript": "^4.1.3"
+  }
+}
