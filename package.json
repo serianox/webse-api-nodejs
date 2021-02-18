@@ -36,5 +36,8 @@
     "source-map-support": "^0.5.19",
     "typedoc": "^0.20.19",
     "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "@pokusew/pcsclite": "https://github.com/serianox/node-pcsclite.git#type-declaration"
   }
 }
